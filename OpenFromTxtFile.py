@@ -18,3 +18,4 @@ for index in range(numberOfLines):
 gameToPlay = random.randint(0, numberOfLines)
 selectedGame = gamesList[gameToPlay]
 print('The selected game is', selectedGame)
+input('Press Any Key To Exit...')
