@@ -1,0 +1,7 @@
+Set out the options that you want to play like this:
+
+Game1
+Game2
+Game3
+Game4
+Game5
